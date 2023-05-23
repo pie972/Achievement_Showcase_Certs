@@ -7,9 +7,7 @@
 ## Directories
 | Directory               | Description                |                                Certificates                                                                                                  |
 | ----------------------  | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Business Development](https://github.com/pie972/Achievement_Showcase_Certs/tree/main/Business_Development)    | focuses on certificates related to sales, marketing, customer relations, and other business development skills. |
-- Certificate in Sales Strategies
-- Marketing Fundamentals Certification |
+| [Business Development](https://github.com/pie972/Achievement_Showcase_Certs/tree/main/Business_Development)    | focuses on certificates related to sales, marketing, customer relations, and other business development skills. | - Certificate in Sales Strategies - Marketing Fundamentals Certification |
 
 
 | [Communication Skills](https://github.com/pie972/Achievement_Showcase_Certs/tree/main/Communication_Skills)    | houses certificates that emphasize effective communication, including verbal and written communication, active listening, presentation skills, and interpersonal communication. |

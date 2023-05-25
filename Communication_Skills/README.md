@@ -4,7 +4,7 @@
 
 
 <br /><br />
-| Certificate Name                                        | Link to the certificate                                                                                                                         |
+| Certificate Name                                        | Link to the certificate                                                                                                                           |
 | ------------------------------------------------------  | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Assertiveness 101 Become More Assertive |  <br /><br /> |
 | Better Business Writing Skills |  <br /><br /> |

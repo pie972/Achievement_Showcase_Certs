@@ -6,4 +6,6 @@
 <br /><br />
 | Certificate Name                                          | Link to the certificate                                                                                                                         |
 | --------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| |  <br /><br /> |
+| Building Test Automation Framework - Selenium, C# & NUnit |  <br /><br /> |
+| Building Test Automation Framework using Selenium and TestNG |  <br /><br /> |
+| Create your first test automation script - Selenium and C# |  <br /><br /> |

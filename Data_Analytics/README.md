@@ -6,4 +6,5 @@
 <br /><br />
 | Certificate Name                                          | Link to the certificate                                                                                                                         |
 | --------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| |  <br /><br /> |
+| Getting Started with Power BI Desktop |  <br /><br /> |
+| Power BI for Beginners Introduction to Business Intelligence |  <br /><br /> |

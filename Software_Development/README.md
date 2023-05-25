@@ -6,7 +6,7 @@
 <br /><br />
 | Certificate Name                                          | Link to the certificate                                                                                                                         |
 | --------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Build a Full Website using WordPress |  <br /><br /> |
-| Client Needs and Software Requirements |  <br /><br /> |
-| Distributed Programming in Java |  <br /><br /> |
-| Software Processes and Agile Practices |  <br /><br /> |
+| Build a Full Website using WordPress | [On Coursera]() <br /> |
+| Client Needs and Software Requirements | [On Coursera](https://www.coursera.org/account/accomplishments/certificate/FMMY54BCEFXP) <br /> |
+| Distributed Programming in Java | [On Coursera]() <br /> |
+| Software Processes and Agile Practices | [On Coursera](https://www.coursera.org/account/accomplishments/certificate/NLVCAUA89625) <br /> |

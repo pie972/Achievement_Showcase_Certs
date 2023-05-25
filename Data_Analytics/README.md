@@ -6,5 +6,5 @@
 <br /><br />
 | Certificate Name                                          | Link to the certificate                                                                                                                         |
 | --------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Getting Started with Power BI Desktop |  <br /><br /> |
-| Power BI for Beginners Introduction to Business Intelligence |  <br /><br /> |
+| Getting Started with Power BI Desktop | [On Coursera](https://www.coursera.org/account/accomplishments/certificate/EKSQCLNXQAGE) <br /> |
+| Power BI for Beginners Introduction to Business Intelligence | [On Coursera](https://www.coursera.org/account/accomplishments/certificate/7XSJ7WSY7JU9) <br /> |
